@@ -1,0 +1,38 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+nav{
+	margin: auto;
+	width:540px;
+}
+ul, ol{
+	list-style: none;
+
+}	
+nav li a{
+	background-color:black;
+	color: #fff;
+	text-decoration: none;
+    text-align:center;
+	padding: 10px 30px;
+	display: block;
+}
+.nav >li{
+	float:left;
+}
+.nav li a:hover{
+	background-color: #696666;
+
+}
+h1{
+    background-color:red;
+    border-radius: 16px;
+    border-color: black;
+	color:#fff;
+    text-align: center;
+}
+body{
+    background-color:yellow;
+    text-align: justify;
+}
